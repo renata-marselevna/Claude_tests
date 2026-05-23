@@ -410,7 +410,7 @@ export default function Home() {
               <div style={{ overflow: "hidden" }}>
                 <animated.h1
                   style={{
-                    fontFamily: "var(--font-anton)",
+                    fontFamily: "var(--font-sui-generis)",
                     fontSize: "clamp(64px,12.5vw,152px)",
                     letterSpacing: "0.02em",
                     lineHeight: 1,
@@ -420,14 +420,14 @@ export default function Home() {
                     ...line1Anim,
                   }}
                 >
-                  EXPLORE
+                  UFO
                 </animated.h1>
               </div>
 
               <div style={{ overflow: "hidden", marginBottom: "clamp(26px,4.5vh,52px)" }}>
                 <animated.h1
                   style={{
-                    fontFamily: "var(--font-anton)",
+                    fontFamily: "var(--font-sui-generis)",
                     fontSize: "clamp(64px,12.5vw,152px)",
                     letterSpacing: "0.02em",
                     lineHeight: 1,
@@ -437,7 +437,7 @@ export default function Home() {
                     ...line2Anim,
                   }}
                 >
-                  NEW WORLDS
+                  SCHOOL
                 </animated.h1>
               </div>
 
